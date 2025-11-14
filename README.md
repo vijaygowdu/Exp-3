@@ -3,11 +3,17 @@
 # AIM:
 To draw the UML diagram for Railway Reservation System.
 # SRS (Procedure):
+
 1.USE CASE DIAGRAM
+
 2.CLASS DIAGRAM
+
 3.ACTIVITY DIAGRAM
+
 4.COMMUNICATION DIAGRAM
+
 5.PACKAGE DIAGRAM
+
 6.SEQUENCE DIAGRAM
 
 ## DIAGRAMS:
